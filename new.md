@@ -6,4 +6,4 @@ A typical text
 *Bullet
 *Bullet 2
 
-[Google page][www.google.com]
+[Google page](www.google.com)
